@@ -1,5 +1,5 @@
 # CAPITAL-LOAN-
-this service allows workers or users to gain access to low interest loans to shop on any online store (giftcard, electronics, gadgets etc..
+this service allows a user to gain access to low interest loan.
 users can also request to become lenders, offer loans to other users through the platform too.
 it is safe and secure and details about lenders and borrowers is only held by the platform.
 which means informations (whois) about users will not be visible on the platform (frontend)
